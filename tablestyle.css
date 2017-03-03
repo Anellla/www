@@ -1,0 +1,105 @@
+#autorisationBlock {
+    margin: 150px auto;
+    padding: 30px;
+    width: 300px;
+    background-color: blue;
+    text-align: center;
+}
+
+/*html, body {
+    height: 400px;
+    margin: 0px;
+    padding: 0px;
+}
+*/
+/*#map {
+    
+    
+    margin: 20px 40px 100px 40px;
+}*/
+
+body {
+    text-shadow: 1px 2px 3px #666;
+    background-image: url("wood6.jpg");
+    text-align: center;
+}
+
+#button {
+    height: 40px;
+    width: 300px;
+}
+
+/* #fift {
+       display: "none";
+
+    }*/
+table {
+    font-size: 70px;
+    margin: auto;
+    background: linear-gradient(lightskyblue,dodgerblue);
+    border-collapse: separate;
+    border-spacing: 5px 5px;
+    border: 10px solid black;
+    table-layout: fixed;
+}
+
+td {
+    vertical-align: middle;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+table.tableFifteen td {
+    background: linear-gradient(#98FB98,#FFFFE0);
+    border: 2px solid black;
+}
+
+table.tableFifteen td div:hover {
+    background: #F4A460;
+}
+
+table.tableFifteen td div {
+    width: 86px;
+    height: 86px;
+    border: 2px solid black;
+    background: #4CAF50;
+    color: #FFFFFF;
+}
+
+h4 {
+    font-size: 45px;
+    //word-spacing: 20px;
+    //letter-spacing: 5px;
+    text-transform: uppercase;
+    margin: 20px;
+    text-shadow: 1px 2px 3px #666;
+}
+
+.tile {
+    width: 90px;
+    height: 90px;
+    border: 2px solid black;
+    background: linear-gradient(black,brown);
+    margin: auto;
+}
+
+/*html, body {*/
+        /*height: 80%;*/
+        /*padding: 0;*/
+      /*}*/
+      #map {
+          height: 400px;
+          margin: auto;
+          width: 700px;
+      }
+/*html, body {  margin: 20px; padding: 0px; }
+      #map { height: 400px;}
+*/
+/*#map {
+        height: 400px;
+        width: 50%;
+                
+        padding: 40px;
+        
+
+       }*/
